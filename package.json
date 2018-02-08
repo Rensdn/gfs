@@ -1,0 +1,19 @@
+{
+  "name": "mkfs",
+  "version": "1.0.2",
+  "description": "Write a file to automatically create a directory function based on node - based FS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "fs",
+    "writeFile"
+  ],
+  "author": "rensdn",
+  "license": "ISC",
+  "directories": {
+    "lib": "lib"
+  }
+}
