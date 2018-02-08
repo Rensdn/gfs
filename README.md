@@ -25,3 +25,4 @@ gfs.writeFilesSync("/var/www/storage/export/filename",data,"utf-8");
 gfs.writeFiles("/var/www/storage/export/filename",data,"utf-8");
 
 gfs.mkdirs("/var/www/storage/export/filename");
+
