@@ -1,6 +1,6 @@
 {
   "name": "mkfs",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Write a file to automatically create a directory function based on node - based FS",
   "main": "index.js",
   "scripts": {
